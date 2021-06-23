@@ -1,4 +1,3 @@
-package com.company.day6.jUnitTesting;
 /**
  * Find the Fewest Notes to be returned for Vending Machine
  * a. Desc -> There is 1, 2, 5, 10, 50, 100, 500 and 1000 Rs Notes which can be
@@ -11,9 +10,9 @@ package com.company.day6.jUnitTesting;
  * d. O/P -> Two Outputs - one the number of minimum Note needed to give the
  * change and second list of Rs Notes that would given in the Change
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
- * @Since 13-06-2021
+ * @Since 14-06-2021
  */
 
 import java.util.Scanner;
