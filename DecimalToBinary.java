@@ -1,4 +1,3 @@
-package com.company.day6.jUnitTesting;
 /**
  * Write a static function toBinary that outputs the binary (base 2) representation of
  * the decimal number typed as the input. It is based on decomposing the number into
@@ -9,7 +8,7 @@ package com.company.day6.jUnitTesting;
  * equal to n in decreasing order to determine which belong in the binary
  * decomposition (and therefore correspond to a 1 bit in the binary representation).
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
