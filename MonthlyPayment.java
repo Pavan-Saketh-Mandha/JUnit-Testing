@@ -1,11 +1,10 @@
-package com.company.day6.jUnitTesting;
 /**
  * Write a Util Static Function to calculate monthlyPayment that reads in three
  * command-line arguments P, Y, and R and calculates the monthly payments you
  * would have to make over Y years to pay off a P principal loan amount at R per cent
  * interest compounded monthly.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
