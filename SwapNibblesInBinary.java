@@ -1,4 +1,3 @@
-package com.company.day6.jUnitTesting;
 /**
  * Write Binary.java to read an integer as an Input, convert to Binary using toBinary
  * function and perform the following functions.
@@ -9,11 +8,10 @@ package com.company.day6.jUnitTesting;
  * 01100100 in a byte (or 8 bits). The two nibbles are (0110) and (0100). If we swap the
  * two nibbles, we get 01000110 which is 70 in decimal.
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
-
 import java.util.Scanner;
 
 public class SwapNibblesInBinary {
