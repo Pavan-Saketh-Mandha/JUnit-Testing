@@ -1,4 +1,3 @@
-package com.company.day6.jUnitTesting;
 /**
  * Write a static function sqrt to compute the square root of a nonnegative number c
  * given in the input using Newton's method:
@@ -7,7 +6,7 @@ package com.company.day6.jUnitTesting;
  * - repeat until desired accuracy reached using condition Math.abs(t - c/t) > epsilon*t
  * where epsilon = 1e-15;
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
