@@ -1,4 +1,3 @@
-package com.company.day6.jUnitTesting;
 /**
  * To the Util Class add temperaturConversion static function, given the temperature
  * in fahrenheit as input outputs the temperature in Celsius or viceversa using the
@@ -6,7 +5,7 @@ package com.company.day6.jUnitTesting;
  * Celsius to Fahrenheit: (°C × 9/5) + 32 = °F
  * Fahrenheit to Celsius: (°F − 32) x 5/9 = °C
  *
- * @author Krunal Lad
+ * @author Pavan Saketh
  * @version 1.0
  * @Since 13-06-2021
  */
